@@ -1,6 +1,5 @@
 # Tela_Carregamento
 
-##
 
 Foi desenvolvida uma tela de carregamento com efeito em HTLM e CSS.
 
